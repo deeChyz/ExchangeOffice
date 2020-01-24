@@ -1,0 +1,82 @@
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.deps.json
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.runtimeconfig.json
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.runtimeconfig.dev.json
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.dll
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.pdb
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.Views.dll
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.Views.pdb
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.DAL.dll
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.DAL.pdb
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.csprojAssemblyReference.cache
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorAssemblyInfo.cache
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorAssemblyInfo.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.AssemblyInfoInputs.cache
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.AssemblyInfo.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.TagHelpers.input.cache
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.TagHelpers.output.cache
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorCoreGenerate.cache
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\AddCurrency.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\CurrencyList.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\EditCurrency.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\ViewCurrency.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Exchange\StartTransaction.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Exchange\ViewAllTransactions.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Exchange\ViewTransaction.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\User\AddUser.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorTargetAssemblyInfo.cache
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorTargetAssemblyInfo.cs
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.Views.pdb
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.csproj.CopyComplete
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.dll
+C:\Users\ALTAIR\Desktop\Exchange App\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.pdb
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.deps.json
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.runtimeconfig.json
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.runtimeconfig.dev.json
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.dll
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.pdb
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.Views.dll
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.Views.pdb
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.DAL.dll
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\bin\Debug\netcoreapp2.2\Exchange App.DAL.pdb
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.csprojAssemblyReference.cache
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorAssemblyInfo.cache
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorAssemblyInfo.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.AssemblyInfoInputs.cache
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.AssemblyInfo.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.TagHelpers.input.cache
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.TagHelpers.output.cache
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorCoreGenerate.cache
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\AddCurrency.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\CurrencyList.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\EditCurrency.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Currency\ViewCurrency.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Exchange\StartTransaction.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Exchange\ViewAllTransactions.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Exchange\ViewTransaction.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\User\AddUser.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorTargetAssemblyInfo.cache
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.RazorTargetAssemblyInfo.cs
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.Views.pdb
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.csproj.CopyComplete
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.dll
+C:\Users\User-PC\Projects\ExchangeOffice\ExchangeApp\Exchange App\obj\Debug\netcoreapp2.2\Exchange App.pdb

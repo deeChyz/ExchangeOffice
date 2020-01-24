@@ -1,0 +1,30 @@
+﻿@model Exchange_App.DAL.Entities.Exchange
+@{
+    ViewData["Title"] = "ViewTransaction";
+}
+
+<div class="currency_container">
+    <div class="currency_info">
+        <p>
+            <span>Cashier: </span>
+            <span>@Model.Cashier</span>
+        </p>
+        <p>
+            <span>Client: </span>
+            <span>@Model.Client.Name</span>
+            <span>@Model.Client.Surname</span>
+        </p>
+        <p>
+            <span>Client Currency: </span>
+            <span>@Model.ClientCurrency.CurrencyName</span>
+            <span>@Model.ClientCurrency.SellingPrice</span>
+            <span>@Model.AmountClientCurrency</span>
+        </p>
+        <p>
+            <span>Target Currency: </span>
+            <span>@Model.TargetCurrency.CurrencyName</span>
+            <span>@Model.TargetCurrency.SellingPrice</span>
+            <span>@Model.AmountTargetCurrency</span>
+        </p>
+    </div>
+</div>
